@@ -4,6 +4,8 @@ Dashboard App for a class project
 
 link al dahboard: https://edm-dashboard-jpgcd.shinyapps.io/DASHBOARD-EDM-JP/
 
+En la pestaña memoria del dashboard hay una demostración del funcionamiento de la misma
+
 ## 1. Trabajo realizado
 
 En este proyecto hemos seguido un esquema estructurado para realizar el proyecto. Hemos comenzado con un boceto de lo que pretendíamos hacer, después hemos realizado el código para implementarlo y finalmente lo hemos completado con todos los aspectos estéticos.
