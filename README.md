@@ -2,7 +2,7 @@
 Dashboard App for a class project
 
 
-link al dahboard: https://edm-dashboard-jpgcd.shinyapps.io/DASHBOARD-EDM-JP/
+link al dashboard: https://edm-dashboard-jpgcd.shinyapps.io/DASHBOARD-EDM-JP/
 
 En la pestaña memoria del dashboard hay una demostración del funcionamiento de la misma
 
